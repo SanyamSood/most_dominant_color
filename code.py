@@ -50,5 +50,5 @@ def process_image(img, clusters):
 
     return final
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
