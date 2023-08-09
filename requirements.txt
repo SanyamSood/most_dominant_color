@@ -1,2 +1,4 @@
 opencv-python-headless
 matplotlib
+scikit-learn
+imutils
